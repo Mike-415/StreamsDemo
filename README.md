@@ -3,7 +3,8 @@ Answer 12 questions about a collection of Customers using streams
 
 ## Screen shots
 
-<img src="ScreenShot1.png" width="300"> <img src="ScreenShot2.png" width="300">
+<img src="ScreenShot1.png" height="250"> 
+<img src="ScreenShot2.png" width="300">
 
 ## Requirements
 - [x] Use at least one method reference somewhere in one of the 12 solutions.
