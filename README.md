@@ -1,11 +1,6 @@
 # StreamsDemo
 Answer 12 questions about a collection of Customers using streams
 
-## Screen shots
-
-<img src="ScreenShot1.png" height="250"> 
-<img src="ScreenShot2.png" width="300">
-
 ## Requirements
 - [x] Use at least one method reference somewhere in one of the 12 solutions.
 
@@ -17,5 +12,10 @@ All questions can be solved in a single, pipelined statement.
 
 ### Optional Extra Credit
 For 10 points extra credit, add an additional interesting query related to Customers or to the words file. Include a comment describing what you are discovering.
+
+## Output
+
+<img src="ScreenShot1.png" height="250"> 
+<img src="ScreenShot2.png" width="300">
 
 
